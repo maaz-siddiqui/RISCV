@@ -1,8 +1,0 @@
-opcode jal : 1101111
-jal instruction bit is 0 because it is always zero when ever it enters in cpu it is automatically
-set to zero by the cpu.
-jal's immediate is positve nad negative.
-rv32i.c compressed.
-jal's by default is set to ra unless its is set to different rd.
--44 = 1010100
-sign extend of -44 : 11111111111111010100
