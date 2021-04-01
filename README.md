@@ -20,7 +20,7 @@ This repository contains RISC-V Single Cycle 32 Bit Processor simulation on Logi
 - Online RV32I Simulator [Venus](https://venus.cs61c.org/)
 
 ## **Under The Guidance Of**
-- [Zeeshan Raffique](https://github.com/zeeshanrafique23)
+- [Zeeshan Rafique](https://github.com/zeeshanrafique23)
 - [Sajjad Ahmed](https://github.com/sajjadahmed677)
 
 ## **Pre-Req Tools**
