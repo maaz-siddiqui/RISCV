@@ -68,7 +68,7 @@ Match the register output of each instruction according to the output observed o
 21. li
 
 ## **Circuit SnapShot**
-![RV32I Logisim Snapshot](images/main.png)
+![RV32I Logisim Snapshot](Images/RV32I-Circuit.png)
 
 >_The quieter you become, the more you are able to hear._
 
