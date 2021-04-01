@@ -15,17 +15,12 @@ This repository contains RISC-V Single Cycle 32 Bit Processor simulation on Logi
 - Branch Circuit
 - Program Counter
 
-## **Reference Material**
-- Book [David_A._Patterson,_John_L._Hennessy](https://drive.google.com/file/d/1zJ5JT1A-pmruRShfD6ikY52tFlcvrdYB/view?usp=sharing)
-- Online RV32I Simulator [Venus](https://venus.cs61c.org/)
-
 ## **Under The Guidance Of**
 - [Zeeshan Rafique](https://github.com/zeeshanrafique23)
 - [Sajjad Ahmed](https://github.com/sajjadahmed677)
 
 ## **Pre-Req Tools**
 - Logisim Software [Logisim.](http://www.cburch.com/logisim/download.html)
-- Reference book for help [David_A._Patterson,_John_L._Hennessy](https://drive.google.com/file/d/1zJ5JT1A-pmruRShfD6ikY52tFlcvrdYB/view?usp=sharing)
 - Venus online simulator [Venus](https://venus.cs61c.org/)
 - Github [Github](https://github.com)
 - Git [Git](https://git-scm.com/downloads)
