@@ -61,6 +61,14 @@ Match the register output of each instruction according to the output observed o
 19. auipc
 20. lui
 21. li
+22. beq
+23. bne
+24. blt
+25. bge
+26. bltu
+27. bgeu
+
+
 
 ## **Circuit SnapShot**
 ![RV32I Logisim Snapshot](Images/RV32I-Circuit.png)
