@@ -410,12 +410,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="label" val="SB"/>
     </comp>
-    <comp lib="0" loc="(990,690)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-      <a name="labelloc" val="east"/>
-    </comp>
     <comp lib="0" loc="(910,210)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
@@ -443,7 +437,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="addrWidth" val="12"/>
       <a name="dataWidth" val="32"/>
       <a name="contents">addr/data: 12 32
-193 118193 400167
+5000113 193 213 100293 400313 393 f00413 100493
+293c063 5201b3 500233 3002b3 332023 9383b3 fe83c4e3 67
+9001b3 34000e7
 </a>
     </comp>
     <comp lib="3" loc="(1000,180)" name="Adder">
